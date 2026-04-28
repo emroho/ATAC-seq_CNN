@@ -1,4 +1,4 @@
-# ATAC-seq_CNN
+# ATAC-seq CNN
 
 Chromatin is a mixture of DNA and proteins that make up a chromosome. The DNA winds around proteins and forms a line of clusters. ATAC-seq is a technique used to evaluate the chromatin availability in DNA, referring to the spaces between the clusters. These spaces are often associated with active genes, and these figurations play a role in gene expression. 
 
